@@ -1,0 +1,12 @@
+# build output
+ludo
+ludo.exe
+*.o
+*.exe
+*.out
+
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
